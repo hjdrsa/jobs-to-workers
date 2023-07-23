@@ -34,7 +34,7 @@ To run this project, you need:
 
 2. Navigate to the project directory:
    ```
-   cd JobsToWorkers
+   cd jobs-to-workers
    ```
 
 3. Build the project:
