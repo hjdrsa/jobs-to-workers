@@ -61,10 +61,6 @@ To run this project, you need:
 
 The build process uses the Spring Boot Maven plugin with a specific configuration that excludes Lombok from the final artifact, as it's only necessary during compile-time.
 
-## Contributing
-
-If you wish to contribute, please fork the repository, make your changes, and create a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
